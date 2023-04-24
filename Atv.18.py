@@ -8,3 +8,4 @@ if i >= 16:
 
 else:
     print('Espere um pouco tente ano que vem')
+    print ('Espere um pouco tente ano que vem')

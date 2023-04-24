@@ -12,7 +12,6 @@ if n1 == '1':
     else:
         v = n2 * 2.2
         v = round(v, 2)
-        print(f'O valor total a pagar R${v}')
 
 elif n1 == '2':
     if n2 <= 5:
@@ -22,8 +21,4 @@ elif n1 == '2':
     else:
         v = n2 * 1.5
         v = round(v, 2)
-        print(f'O valor total a pagar R${v}')
-
-else:
-    print('Tente Novamente...')
 
