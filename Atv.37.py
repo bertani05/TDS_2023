@@ -22,3 +22,6 @@ elif n1 == '2':
         v = n2 * 1.5
         v = round(v, 2)
 
+if v > 25 or n2 > 8:
+    ts = v - ( v * 0.1)
+    print(f'O valor total a pagar R${ts}')
